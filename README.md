@@ -19,7 +19,7 @@ Passionate about solving real-world problems through technology
 Always looking to connect with fellow students and professionals  
 
 📫 Get in Touch      
-LinkedIn: JACKSON SAMUEL T        `
+LinkedIn: JACKSON SAMUEL T       
 Email: samj75508@gmail.com  
 
 😄 Fun Fact  
