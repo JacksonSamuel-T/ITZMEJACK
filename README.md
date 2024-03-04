@@ -5,18 +5,23 @@ I'm JACKSON SAMUEL T, a passionate college student on a journey to explore the e
 💡 Exploring areas like creative thinking  
 🌐 Actively contributing to open-source projects    
 🎓 Class of 2k25  
+
 🚀 What I'm Working On  
 Currently diving into Webpage developing  
-Sharpening my skills in Java   
+Sharpening my skills in Java  
+
 🌱 What I'm Learning  
-Excited about sql            
+Excited about sql    
+
 👯 Let's Collaborate!                    
 Open to collaboration on projects related to creative                
 Passionate about solving real-world problems through technology                    
-Always looking to connect with fellow students and professionals          
+Always looking to connect with fellow students and professionals  
+
 📫 Get in Touch      
 LinkedIn: JACKSON SAMUEL T
 Email: samj75508@gmail.com  
+
 😄 Fun Fact  
 Coding can “power up” your brain
 
