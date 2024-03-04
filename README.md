@@ -9,12 +9,12 @@ I'm JACKSON SAMUEL T, a passionate college student on a journey to explore the e
 Currently diving into Webpage developing  
 Sharpening my skills in Java   
 🌱 What I'm Learning  
-Excited about sql
-👯 Let's Collaborate!
-Open to collaboration on projects related to creative  
+Excited about sql            
+👯 Let's Collaborate!                    
+Open to collaboration on projects related to creative                
 Passionate about solving real-world problems through technology
-Always looking to connect with fellow students and professionals
-📫 Get in Touch    
+Always looking to connect with fellow students and professionals          
+📫 Get in Touch      
 LinkedIn: JACKSON SAMUEL T
 Email: samj75508@gmail.com  
 😄 Fun Fact  
