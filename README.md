@@ -11,13 +11,13 @@ Sharpening my skills in Java
 🌱 What I'm Learning  
 Excited about sql
 👯 Let's Collaborate!
-Open to collaboration on projects related to creative
+Open to collaboration on projects related to creative  
 Passionate about solving real-world problems through technology
 Always looking to connect with fellow students and professionals
-📫 Get in Touch
+📫 Get in Touch    
 LinkedIn: JACKSON SAMUEL T
 Email: samj75508@gmail.com  
-😄 Fun Fact
+😄 Fun Fact  
 Coding can “power up” your brain
 
 Thanks for stopping by! Feel free to explore my repositories and connect with me. Let's learn and grow together! 🚀
