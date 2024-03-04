@@ -12,7 +12,7 @@ Sharpening my skills in Java
 Excited about sql            
 👯 Let's Collaborate!                    
 Open to collaboration on projects related to creative                
-Passionate about solving real-world problems through technology
+Passionate about solving real-world problems through technology                    
 Always looking to connect with fellow students and professionals          
 📫 Get in Touch      
 LinkedIn: JACKSON SAMUEL T
