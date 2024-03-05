@@ -7,7 +7,7 @@ I'm JACKSON SAMUEL T, a passionate college student on a journey to explore the e
 🎓 Class of 2k25  
 
 🚀 What I'm Working On  
-Currently diving into Webpage developing  
+Currently diving into Webpage developing    
 Sharpening my skills in Frontend  
 
 🌱 What I'm Learning  
